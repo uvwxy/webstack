@@ -1,6 +1,7 @@
 # Thrift Integration
 
 - Requires the thrift fork from https://github.com/uvwxy/thrift
+- Run `npm install` (see original readme.md)
 - Run `bash gen-thrift.js` to generate sources (angular + node)
 - Run `node main` inside `app_server`
 
