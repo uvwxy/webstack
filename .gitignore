@@ -6,3 +6,5 @@ dist_map
 .tmp
 .DS_Store
 .idea
+app_server/gen-nodejs/*.js
+app/js/thrift/gen-js/*.js
